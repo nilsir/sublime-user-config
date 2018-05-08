@@ -1,5 +1,5 @@
 # Usage
 ```
-cd sublime_text_packages_path
-git clone http://code.videni.cn/vidy/sublime-text.git  User
+cd your_sublime_text_packages_path
+git clone https://github.com/nilsir/sublime-user-config.git  User
 ```
