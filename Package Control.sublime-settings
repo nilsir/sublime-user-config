@@ -1,0 +1,70 @@
+{
+	"bootstrapped": true,
+	"downloader_precedence":
+	{
+		"linux":
+		[
+			"urllib",
+			"curl",
+			"wget"
+		],
+		"osx":
+		[
+			"curl",
+			"urllib"
+		],
+		"windows":
+		[
+			"wininet"
+		]
+	},
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"AlignTab",
+		"All Autocomplete",
+		"Babel",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSS3",
+		"DA CS",
+		"DA UI",
+		"DocBlockr",
+		"Dockerfile Syntax Highlighting",
+		"EditorConfig",
+		"Emmet",
+		"Emmet Css Snippets",
+		"ESLint",
+		"File History",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"HTMLBeautify",
+		"JsPrettier",
+		"Log Highlight",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Oceanic Next Color Scheme",
+		"Origami",
+		"Package Control",
+		"Path Tools",
+		"PHP Companion",
+		"PHP Completions Kit",
+		"PHP-Twig",
+		"Phpcs",
+		"Pretty JSON",
+		"Pretty YAML",
+		"Pug",
+		"Sass",
+		"SideBarEnhancements",
+		"SqlBeautifier",
+		"SublimeCodeIntel",
+		"TrailingSpaces",
+		"Vue Syntax Highlight"
+	]
+}

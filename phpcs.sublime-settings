@@ -1,0 +1,7 @@
+{
+    "phpcbf_executable_path": "/usr/local/Cellar/php@7.1/7.1.16/bin/phpcbf",
+    "phpcs_executable_path": "/usr/local/Cellar/php@7.1/7.1.16/bin/phpcs",
+    "phpcs_php_path": "/usr/local/Cellar/php@7.1/7.1.16",
+    "php_cs_fixer_executable_path": "/usr/local/bin/php-cs-fixer"
+}
+
