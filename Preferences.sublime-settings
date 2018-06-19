@@ -5,21 +5,20 @@
 		"tokenizer",
 		"app"
 	],
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/DA UI/DA Dark.tmTheme",
 	"folder_exclude_patterns":
 	[
 		"runtime/",
 		".git/"
 	],
+	"font_size": 12,
 	"ignored_packages":
 	[
 		"Markdown",
 		"Vintage"
 	],
-	"index_files": true,
-	"skin": "DA UI/Elegant",
-	"tab_size": 4,
+	"index_files": false,
 	"theme": "DA.sublime-theme",
-	"translate_tabs_to_spaces": true,
+	"update_check": false,
 	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
 }
